@@ -1,0 +1,7 @@
+Adicionando uma linha teste
+
+Essa linha foi adicionada no Branch Master
+Essa linha foi modificada no BranchTeste
+
+Aula 09
+Dando conflito, modificando mesmo arquivo, na mesma linha.

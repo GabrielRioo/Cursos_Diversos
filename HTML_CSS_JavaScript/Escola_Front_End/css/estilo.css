@@ -1,0 +1,45 @@
+@charset "UTF-8";
+
+body {
+    margin: 0px;
+    width: 100%;
+    height: 100%;
+}
+
+header.menu-principal {
+    background-color: #252323;
+    height: 60px;
+    width: 100%;
+}
+
+main {
+
+    margin: 0 auto;
+    width: 980px;
+    position: relative;
+    
+}
+
+header img#img-logo{
+    transform: scale(0.3);
+    display: block;
+    position: relative;
+    bottom: 30px;
+    right: 170px
+}   
+
+#logo-linkedin, #logo-facebook, #logo-twitter {
+    width: 30px;
+    height: 30px;
+    margin: 5px;
+    
+}
+
+.redes-sociais ul li {
+    display: inline-block;
+    position: relative;
+    left: 80%;
+    bottom: 115px;
+    margin: auto;
+}
+
