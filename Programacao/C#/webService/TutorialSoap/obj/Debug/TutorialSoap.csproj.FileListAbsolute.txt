@@ -1,0 +1,14 @@
+C:\Users\gabri\source\repos\WebApplication\TutorialSoap\bin\TutorialSoap.dll.config
+C:\Users\gabri\source\repos\WebApplication\TutorialSoap\bin\TutorialSoap.dll
+C:\Users\gabri\source\repos\WebApplication\TutorialSoap\bin\TutorialSoap.pdb
+C:\Users\gabri\source\repos\WebApplication\TutorialSoap\obj\Debug\TutorialSoap.csprojAssemblyReference.cache
+C:\Users\gabri\source\repos\WebApplication\TutorialSoap\obj\Debug\TutorialSoap.csproj.CoreCompileInputs.cache
+C:\Users\gabri\source\repos\WebApplication\TutorialSoap\obj\Debug\TutorialSoap.dll
+C:\Users\gabri\source\repos\WebApplication\TutorialSoap\obj\Debug\TutorialSoap.pdb
+C:\Gabrieltmp\GitHub\Cursos_Diversos\Programacao\C#\webService\TutorialSoap\bin\TutorialSoap.dll.config
+C:\Gabrieltmp\GitHub\Cursos_Diversos\Programacao\C#\webService\TutorialSoap\bin\TutorialSoap.dll
+C:\Gabrieltmp\GitHub\Cursos_Diversos\Programacao\C#\webService\TutorialSoap\bin\TutorialSoap.pdb
+C:\Gabrieltmp\GitHub\Cursos_Diversos\Programacao\C#\webService\TutorialSoap\obj\Debug\TutorialSoap.csprojAssemblyReference.cache
+C:\Gabrieltmp\GitHub\Cursos_Diversos\Programacao\C#\webService\TutorialSoap\obj\Debug\TutorialSoap.csproj.CoreCompileInputs.cache
+C:\Gabrieltmp\GitHub\Cursos_Diversos\Programacao\C#\webService\TutorialSoap\obj\Debug\TutorialSoap.dll
+C:\Gabrieltmp\GitHub\Cursos_Diversos\Programacao\C#\webService\TutorialSoap\obj\Debug\TutorialSoap.pdb
